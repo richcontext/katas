@@ -1,0 +1,1 @@
+# RichContext Engineering Team Katas
