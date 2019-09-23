@@ -9,4 +9,5 @@ Every week we sharpen our skills by practicing a code kata and comparing solutio
 ## Katas 
 
 * W37/19: [Equal Sides Of An Array](https://www.codewars.com/kata/equal-sides-of-an-array/)
-* W38/39: [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+* W38/19: [Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+* W39/19: [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
