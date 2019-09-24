@@ -6,7 +6,7 @@ const CYAN_TEXT = "\x1b[34m";
 function runTests(tests, fn) {
   console.log(`${CYAN_TEXT}******* Tests *******\n${COLOR_RESET}`);
   return tests.forEach(([test, solution]) => {
-    const result = fn(test);
+    const result = typeof test === 'function' ? fn(test) : test;
     const success = result === solution;
     const color = success ? GREEN_TEXT : RED_TEXT;
 
