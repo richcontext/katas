@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-void swap(char *a, char *b) { char tmp = *a;
+void swap(char *a, char *b) {
+    char tmp = *a;
     *a = *b;
     *b = tmp;
 }
