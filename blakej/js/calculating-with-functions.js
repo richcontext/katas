@@ -24,10 +24,13 @@ function useNumber(fn, n) {
   return n;
 }
 
-runTests([
-  [seven(times(five())), 35],
-  [four(plus(nine())), 13],
-  [eight(minus(three())), 5],
-  [six(dividedBy(two())), 3],
-  [four(dividedBy(six())), 0]
-]);
+runTests(
+  true,
+  [
+    [seven(times(five())), 35],
+    [four(plus(nine())), 13],
+    [eight(minus(three())), 5],
+    [six(dividedBy(two())), 3],
+    [four(dividedBy(six())), 0]
+  ]
+);

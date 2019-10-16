@@ -11,6 +11,7 @@ function countBits(n) {
 };
 
 runTests(
+  false,
   [
     [0, 0],
     [4, 1],
