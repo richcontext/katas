@@ -13,3 +13,4 @@ Every week we sharpen our skills by practicing a code kata and comparing solutio
 * W39/19: [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 * W40/19: [Next smaller number with the same digits](https://www.codewars.com/kata/next-smaller-number-with-the-same-digits)
 * W41/19: [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
+* W45/19: [Decode the morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
